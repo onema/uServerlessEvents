@@ -1,2 +1,2 @@
 # uServerlessEvents
-AWS Lambda events for Scala and uServerless
+Scala Case Classes for AWS Lambda 
